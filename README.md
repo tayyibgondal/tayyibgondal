@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/tayyib-ul-hassan-4b24541b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://wa.me/03414455966">
+  <a href="https://wa.me/+923414455966">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
